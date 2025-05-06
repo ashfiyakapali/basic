@@ -1,4 +1,3 @@
-package basicoperations;
 
 public class basicoperations {
         public static void main(String[] args) {
